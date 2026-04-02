@@ -1,0 +1,52 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.env.local
+.env.production
+.env.*.local
+
+# =========================
+# Next.js
+# =========================
+.next/
+out/
+build/
+.vercel
+
+# =========================
+# Python
+# =========================
+*.egg-info/
+dist/
+*.log
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Misc
+# =========================
+*.bak
+*.tmp
+coverage/
+.nyc_output/

@@ -1,0 +1,2698 @@
+[
+    {
+        "symbol": "KKHC",
+        "current_price": 285.8,
+        "target_high": 293.4220510653982,
+        "upside_pct": 2.666917797550117,
+        "alpha_score": 133.75036338469243,
+        "volatility": 0.009939518144556628
+    },
+    {
+        "symbol": "SHEL",
+        "current_price": 340.1,
+        "target_high": 349.4418822795678,
+        "upside_pct": 2.7468045514753716,
+        "alpha_score": 122.89178372730619,
+        "volatility": 0.012351409249380434
+    },
+    {
+        "symbol": "DORDI",
+        "current_price": 302.2,
+        "target_high": 309.45953694098404,
+        "upside_pct": 2.4022292988034404,
+        "alpha_score": 111.49160487700048,
+        "volatility": 0.011546279663420596
+    },
+    {
+        "symbol": "DHPL",
+        "current_price": 332.0,
+        "target_high": 340.5253584140245,
+        "upside_pct": 2.567879040368822,
+        "alpha_score": 110.76003878650954,
+        "volatility": 0.013184165232358033
+    },
+    {
+        "symbol": "CHL",
+        "current_price": 316.1,
+        "target_high": 325.04703498738706,
+        "upside_pct": 2.830444475604874,
+        "alpha_score": 109.80459160143234,
+        "volatility": 0.015777104894472854
+    },
+    {
+        "symbol": "RFPL",
+        "current_price": 420.0,
+        "target_high": 429.67709038103305,
+        "upside_pct": 2.3040691383412057,
+        "alpha_score": 103.74398141853348,
+        "volatility": 0.012209183673469392
+    },
+    {
+        "symbol": "LUK",
+        "current_price": 9.83,
+        "target_high": 10.057183928385971,
+        "upside_pct": 2.3111284678125203,
+        "alpha_score": 102.39440465532135,
+        "volatility": 0.01257084726057258
+    },
+    {
+        "symbol": "SMJC",
+        "current_price": 496.1,
+        "target_high": 505.1958631253634,
+        "upside_pct": 1.8334737200893776,
+        "alpha_score": 102.14004824990565,
+        "volatility": 0.007950585999366523
+    },
+    {
+        "symbol": "MAKAR",
+        "current_price": 538.0,
+        "target_high": 550.4806159163193,
+        "upside_pct": 2.3198170848176995,
+        "alpha_score": 100.3437792617407,
+        "volatility": 0.013118693574083917
+    },
+    {
+        "symbol": "SFEF",
+        "current_price": 10.3,
+        "target_high": 10.522660301834179,
+        "upside_pct": 2.161750503244442,
+        "alpha_score": 98.89734218523117,
+        "volatility": 0.011858529819694862
+    },
+    {
+        "symbol": "RIDI",
+        "current_price": 351.2,
+        "target_high": 359.12547920572524,
+        "upside_pct": 2.2566854230424904,
+        "alpha_score": 97.70928413687564,
+        "volatility": 0.013095916042954752
+    },
+    {
+        "symbol": "MLBSL",
+        "current_price": 1950.0,
+        "target_high": 1995.1700339782224,
+        "upside_pct": 2.3164119988831886,
+        "alpha_score": 97.59409782784859,
+        "volatility": 0.013735164835164836
+    },
+    {
+        "symbol": "MNMF1",
+        "current_price": 9.81,
+        "target_high": 10.00794263818547,
+        "upside_pct": 2.0177638958763557,
+        "alpha_score": 97.4606785748255,
+        "volatility": 0.01070336391437308
+    },
+    {
+        "symbol": "BEDC",
+        "current_price": 525.2,
+        "target_high": 536.8136367231461,
+        "upside_pct": 2.2112788886416683,
+        "alpha_score": 96.14619895217534,
+        "volatility": 0.012999129583287989
+    },
+    {
+        "symbol": "NIBD2082",
+        "current_price": 1008.5,
+        "target_high": 1029.195307847729,
+        "upside_pct": 2.0520880364629774,
+        "alpha_score": 95.0228952373512,
+        "volatility": 0.01159572207663434
+    },
+    {
+        "symbol": "MABEL",
+        "current_price": 756.2,
+        "target_high": 770.8017128144775,
+        "upside_pct": 1.9309326652310812,
+        "alpha_score": 94.73810091978038,
+        "volatility": 0.010381796199040354
+    },
+    {
+        "symbol": "GUFL",
+        "current_price": 585.6,
+        "target_high": 598.0128438893686,
+        "upside_pct": 2.119679625916772,
+        "alpha_score": 92.47345440239708,
+        "volatility": 0.012922033567525363
+    },
+    {
+        "symbol": "MPFL",
+        "current_price": 698.1,
+        "target_high": 712.6176699410595,
+        "upside_pct": 2.079597470428222,
+        "alpha_score": 92.39189176250625,
+        "volatility": 0.01250844127939101
+    },
+    {
+        "symbol": "SWASTIK",
+        "current_price": 2850.0,
+        "target_high": 2898.8781222690313,
+        "upside_pct": 1.7150218340011032,
+        "alpha_score": 90.85997261647253,
+        "volatility": 0.008875438596491243
+    },
+    {
+        "symbol": "KBL",
+        "current_price": 238.0,
+        "target_high": 242.76001603548846,
+        "upside_pct": 2.0000067376001933,
+        "alpha_score": 90.12743372577545,
+        "volatility": 0.012190876350540242
+    },
+    {
+        "symbol": "USHEC",
+        "current_price": 508.0,
+        "target_high": 518.8206823171608,
+        "upside_pct": 2.1300555742442615,
+        "alpha_score": 90.10798979315487,
+        "volatility": 0.013638920134983112
+    },
+    {
+        "symbol": "RSY",
+        "current_price": 10.16,
+        "target_high": 10.403916842013873,
+        "upside_pct": 2.4007563190341847,
+        "alpha_score": 89.80737923927586,
+        "volatility": 0.01673228346456692
+    },
+    {
+        "symbol": "NMB",
+        "current_price": 261.2,
+        "target_high": 266.5453640427646,
+        "upside_pct": 2.046464028623521,
+        "alpha_score": 88.3239266815041,
+        "volatility": 0.013169984686064356
+    },
+    {
+        "symbol": "AHL",
+        "current_price": 512.0,
+        "target_high": 522.0864938893862,
+        "upside_pct": 1.9700183377707448,
+        "alpha_score": 87.61612859180187,
+        "volatility": 0.012484654017857129
+    },
+    {
+        "symbol": "JBBL",
+        "current_price": 374.0,
+        "target_high": 380.5615159682668,
+        "upside_pct": 1.7544160342959407,
+        "alpha_score": 86.7761416547661,
+        "volatility": 0.010217723453017582
+    },
+    {
+        "symbol": "NICFC",
+        "current_price": 9.54,
+        "target_high": 9.748866152686235,
+        "upside_pct": 2.1893726696670366,
+        "alpha_score": 86.36951020815494,
+        "volatility": 0.015348906858340828
+    },
+    {
+        "symbol": "TAMOR",
+        "current_price": 456.0,
+        "target_high": 464.9006362411826,
+        "upside_pct": 1.9518939125400425,
+        "alpha_score": 86.34209214007508,
+        "volatility": 0.01260651629072681
+    },
+    {
+        "symbol": "SCB",
+        "current_price": 670.0,
+        "target_high": 683.4552922500741,
+        "upside_pct": 2.0082525746379174,
+        "alpha_score": 86.0902570728196,
+        "volatility": 0.013327292110874212
+    },
+    {
+        "symbol": "ULBSL",
+        "current_price": 3182.0,
+        "target_high": 3238.235850114081,
+        "upside_pct": 1.7673114429315115,
+        "alpha_score": 84.70347953663642,
+        "volatility": 0.010864685283289975
+    },
+    {
+        "symbol": "MKJC",
+        "current_price": 535.0,
+        "target_high": 545.261017716373,
+        "upside_pct": 1.9179472367052268,
+        "alpha_score": 84.55223544980669,
+        "volatility": 0.012683578104138837
+    },
+    {
+        "symbol": "SHL",
+        "current_price": 509.0,
+        "target_high": 520.1541522211305,
+        "upside_pct": 2.191385505133691,
+        "alpha_score": 84.12785857980114,
+        "volatility": 0.016048273926466447
+    },
+    {
+        "symbol": "SINDU",
+        "current_price": 829.0,
+        "target_high": 844.6454758893294,
+        "upside_pct": 1.8872709154800174,
+        "alpha_score": 83.70081487661386,
+        "volatility": 0.012547820093055316
+    },
+    {
+        "symbol": "HLI",
+        "current_price": 388.1,
+        "target_high": 396.09596682799844,
+        "upside_pct": 2.0602851914450886,
+        "alpha_score": 83.61857835873843,
+        "volatility": 0.014639084183016151
+    },
+    {
+        "symbol": "MBLEF",
+        "current_price": 10.21,
+        "target_high": 10.422579219493112,
+        "upside_pct": 2.082068751156825,
+        "alpha_score": 83.37841297987237,
+        "volatility": 0.014971316636350932
+    },
+    {
+        "symbol": "HEI",
+        "current_price": 557.09,
+        "target_high": 566.9876555528515,
+        "upside_pct": 1.776670834667901,
+        "alpha_score": 82.65630438797767,
+        "volatility": 0.011494680264537899
+    },
+    {
+        "symbol": "NBF3",
+        "current_price": 9.9,
+        "target_high": 10.05601649398703,
+        "upside_pct": 1.5759241816871776,
+        "alpha_score": 82.5484095169474,
+        "volatility": 0.009090909090909089
+    },
+    {
+        "symbol": "SNLI",
+        "current_price": 487.0,
+        "target_high": 495.60511248788487,
+        "upside_pct": 1.7669635498736966,
+        "alpha_score": 80.31438322025909,
+        "volatility": 0.012000586682311527
+    },
+    {
+        "symbol": "BHL",
+        "current_price": 244.5,
+        "target_high": 249.1094912638178,
+        "upside_pct": 1.8852725005389919,
+        "alpha_score": 79.97630151623459,
+        "volatility": 0.013572889278410752
+    },
+    {
+        "symbol": "SFMF",
+        "current_price": 10.2,
+        "target_high": 10.421322891310083,
+        "upside_pct": 2.16983226774593,
+        "alpha_score": 79.8999607617635,
+        "volatility": 0.017156862745098037
+    },
+    {
+        "symbol": "TRH",
+        "current_price": 782.5,
+        "target_high": 797.0720061046395,
+        "upside_pct": 1.8622372018708675,
+        "alpha_score": 79.66887392703309,
+        "volatility": 0.01337471474212687
+    },
+    {
+        "symbol": "NMBMF",
+        "current_price": 698.1,
+        "target_high": 709.9502507013347,
+        "upside_pct": 1.697500458578232,
+        "alpha_score": 78.07444436957532,
+        "volatility": 0.01174207542922621
+    },
+    {
+        "symbol": "CSY",
+        "current_price": 9.38,
+        "target_high": 9.557991363446037,
+        "upside_pct": 1.8975625100856788,
+        "alpha_score": 77.79342807956147,
+        "volatility": 0.014392324093816633
+    },
+    {
+        "symbol": "PRIN",
+        "current_price": 750.1,
+        "target_high": 762.2776164159193,
+        "upside_pct": 1.6234657266923491,
+        "alpha_score": 77.50660554584856,
+        "volatility": 0.010946159559677761
+    },
+    {
+        "symbol": "ICFCD88",
+        "current_price": 1155.0,
+        "target_high": 1173.5107923597084,
+        "upside_pct": 1.6026660051695691,
+        "alpha_score": 77.34468245565536,
+        "volatility": 0.010721088435374187
+    },
+    {
+        "symbol": "SBLD2091",
+        "current_price": 1062.0,
+        "target_high": 1082.0520004133964,
+        "upside_pct": 1.8881356321465597,
+        "alpha_score": 77.25466613119886,
+        "volatility": 0.014440408931934358
+    },
+    {
+        "symbol": "SSHL",
+        "current_price": 235.0,
+        "target_high": 239.74477082970373,
+        "upside_pct": 2.0190514168951994,
+        "alpha_score": 76.92737882553799,
+        "volatility": 0.01624620060790274
+    },
+    {
+        "symbol": "MMKJL",
+        "current_price": 566.0,
+        "target_high": 576.9738187914854,
+        "upside_pct": 1.9388372423119302,
+        "alpha_score": 76.69019272240682,
+        "volatility": 0.015281423523472955
+    },
+    {
+        "symbol": "PURE",
+        "current_price": 1005.0,
+        "target_high": 1024.758455728699,
+        "upside_pct": 1.9660154953929327,
+        "alpha_score": 75.28874559804737,
+        "volatility": 0.016113006396588463
+    },
+    {
+        "symbol": "NICAD2091",
+        "current_price": 1055.0,
+        "target_high": 1075.0664530545187,
+        "upside_pct": 1.9020334648832833,
+        "alpha_score": 75.27406627991232,
+        "volatility": 0.015268111035883564
+    },
+    {
+        "symbol": "UHEWA",
+        "current_price": 615.0,
+        "target_high": 626.4865159180132,
+        "upside_pct": 1.867726165530593,
+        "alpha_score": 75.20517366701783,
+        "volatility": 0.014835075493612054
+    },
+    {
+        "symbol": "CORBL",
+        "current_price": 1988.2,
+        "target_high": 2022.9963713675152,
+        "upside_pct": 1.7501444204564474,
+        "alpha_score": 75.10571694667924,
+        "volatility": 0.013302412806989778
+    },
+    {
+        "symbol": "USHL",
+        "current_price": 715.1,
+        "target_high": 728.8119075944398,
+        "upside_pct": 1.9174811347279839,
+        "alpha_score": 74.77552013919905,
+        "volatility": 0.015643166789859563
+    },
+    {
+        "symbol": "HURJA",
+        "current_price": 289.0,
+        "target_high": 293.7551784259133,
+        "upside_pct": 1.6453904587935266,
+        "alpha_score": 74.77535433313051,
+        "volatility": 0.012004448838358871
+    },
+    {
+        "symbol": "KBSH",
+        "current_price": 1694.0,
+        "target_high": 1720.5637331295466,
+        "upside_pct": 1.5681070324407613,
+        "alpha_score": 74.55888526507172,
+        "volatility": 0.011031792882442219
+    },
+    {
+        "symbol": "MFLD85",
+        "current_price": 1131.0,
+        "target_high": 1156.571511810262,
+        "upside_pct": 2.2609647931266217,
+        "alpha_score": 73.88169996361017,
+        "volatility": 0.02060250094732852
+    },
+    {
+        "symbol": "TSHL",
+        "current_price": 739.0,
+        "target_high": 751.3553949497364,
+        "upside_pct": 1.6719073003702736,
+        "alpha_score": 73.61287313656841,
+        "volatility": 0.012712159288613965
+    },
+    {
+        "symbol": "OHL",
+        "current_price": 747.5,
+        "target_high": 761.2316494590682,
+        "upside_pct": 1.8370099610793666,
+        "alpha_score": 73.45372628265153,
+        "volatility": 0.015009077878643112
+    },
+    {
+        "symbol": "PRVU",
+        "current_price": 220.0,
+        "target_high": 223.11320546961798,
+        "upside_pct": 1.4150933952808895,
+        "alpha_score": 73.35051594522282,
+        "volatility": 0.009292207792207793
+    },
+    {
+        "symbol": "NBLD87",
+        "current_price": 1085.0,
+        "target_high": 1102.0502104698671,
+        "upside_pct": 1.5714479695730024,
+        "alpha_score": 73.25546925829028,
+        "volatility": 0.011451612903225826
+    },
+    {
+        "symbol": "NADEP",
+        "current_price": 813.1,
+        "target_high": 823.77252452728,
+        "upside_pct": 1.3125721961972625,
+        "alpha_score": 73.04444957415605,
+        "volatility": 0.00796949944656254
+    },
+    {
+        "symbol": "GBIMESY2",
+        "current_price": 9.45,
+        "target_high": 9.617753496370856,
+        "upside_pct": 1.7751692737656766,
+        "alpha_score": 72.4190240268883,
+        "volatility": 0.014512471655328827
+    },
+    {
+        "symbol": "HBL",
+        "current_price": 222.0,
+        "target_high": 226.13140923449183,
+        "upside_pct": 1.8609951506719904,
+        "alpha_score": 71.72585476548296,
+        "volatility": 0.015945945945945946
+    },
+    {
+        "symbol": "EDBL",
+        "current_price": 615.0,
+        "target_high": 625.3985857368145,
+        "upside_pct": 1.6908269490755397,
+        "alpha_score": 71.34186039174945,
+        "volatility": 0.013700348432055753
+    },
+    {
+        "symbol": "SGHC",
+        "current_price": 436.1,
+        "target_high": 443.710991701487,
+        "upside_pct": 1.7452400140992805,
+        "alpha_score": 71.20967415214287,
+        "volatility": 0.014508467913650217
+    },
+    {
+        "symbol": "BNHC",
+        "current_price": 372.0,
+        "target_high": 378.30767676157507,
+        "upside_pct": 1.695612032681472,
+        "alpha_score": 70.70254176305139,
+        "volatility": 0.013982334869431609
+    },
+    {
+        "symbol": "SMATA",
+        "current_price": 849.0,
+        "target_high": 863.0324923985081,
+        "upside_pct": 1.6528259597771524,
+        "alpha_score": 69.89038869369679,
+        "volatility": 0.013648830556957767
+    },
+    {
+        "symbol": "PROFL",
+        "current_price": 486.2,
+        "target_high": 495.35305414851433,
+        "upside_pct": 1.882569754939182,
+        "alpha_score": 69.77248912609325,
+        "volatility": 0.016981547863900784
+    },
+    {
+        "symbol": "NIMBPO",
+        "current_price": 166.6,
+        "target_high": 169.23559413587802,
+        "upside_pct": 1.5819892772377233,
+        "alpha_score": 69.66678857769921,
+        "volatility": 0.012707940318984768
+    },
+    {
+        "symbol": "STC",
+        "current_price": 6032.0,
+        "target_high": 6112.885201361911,
+        "upside_pct": 1.34093503584069,
+        "alpha_score": 69.23832583715958,
+        "volatility": 0.009366947707464966
+    },
+    {
+        "symbol": "RMF2",
+        "current_price": 10.22,
+        "target_high": 10.4076391612671,
+        "upside_pct": 1.8359996210088072,
+        "alpha_score": 68.93429877556945,
+        "volatility": 0.01663405088062623
+    },
+    {
+        "symbol": "NLICL",
+        "current_price": 607.0,
+        "target_high": 616.8353002124122,
+        "upside_pct": 1.6203130498207947,
+        "alpha_score": 68.63433504823601,
+        "volatility": 0.013607907742998363
+    },
+    {
+        "symbol": "NFS",
+        "current_price": 659.0,
+        "target_high": 668.5435920204989,
+        "upside_pct": 1.4481930228374467,
+        "alpha_score": 68.46192267215758,
+        "volatility": 0.011153262518968143
+    },
+    {
+        "symbol": "MKHL",
+        "current_price": 770.0,
+        "target_high": 781.1886271867344,
+        "upside_pct": 1.4530684658096589,
+        "alpha_score": 68.34239991897077,
+        "volatility": 0.011261595547309862
+    },
+    {
+        "symbol": "HIDCLP",
+        "current_price": 222.7,
+        "target_high": 226.2146878001878,
+        "upside_pct": 1.5782163449428932,
+        "alpha_score": 68.03123161518288,
+        "volatility": 0.013198409134646247
+    },
+    {
+        "symbol": "GRDBL",
+        "current_price": 1160.5,
+        "target_high": 1179.3410500535974,
+        "upside_pct": 1.6235286560618027,
+        "alpha_score": 67.8782040016369,
+        "volatility": 0.013918261832953784
+    },
+    {
+        "symbol": "TPC",
+        "current_price": 407.0,
+        "target_high": 414.0394205683063,
+        "upside_pct": 1.729587363220218,
+        "alpha_score": 67.55218860531077,
+        "volatility": 0.015603720603720637
+    },
+    {
+        "symbol": "NESDO",
+        "current_price": 1591.2,
+        "target_high": 1615.9020630224688,
+        "upside_pct": 1.5524172336896038,
+        "alpha_score": 67.39884825700743,
+        "volatility": 0.013033290239172587
+    },
+    {
+        "symbol": "BHDC",
+        "current_price": 492.2,
+        "target_high": 499.20714369051956,
+        "upside_pct": 1.4236374828361595,
+        "alpha_score": 67.34492933744824,
+        "volatility": 0.011139490334939339
+    },
+    {
+        "symbol": "RSDC",
+        "current_price": 697.7,
+        "target_high": 709.4225937243863,
+        "upside_pct": 1.6801768273450177,
+        "alpha_score": 67.19799209812416,
+        "volatility": 0.015003378447552156
+    },
+    {
+        "symbol": "NMIC",
+        "current_price": 1335.0,
+        "target_high": 1353.5517324305556,
+        "upside_pct": 1.3896428786933064,
+        "alpha_score": 66.55841679764714,
+        "volatility": 0.010878544676297506
+    },
+    {
+        "symbol": "PMLI",
+        "current_price": 501.1,
+        "target_high": 509.46350983506517,
+        "upside_pct": 1.6690301007912896,
+        "alpha_score": 66.39061128740111,
+        "volatility": 0.015139550132565504
+    },
+    {
+        "symbol": "MANDU",
+        "current_price": 838.0,
+        "target_high": 850.8782977792608,
+        "upside_pct": 1.5367897111289794,
+        "alpha_score": 66.2780461381656,
+        "volatility": 0.013187009887487208
+    },
+    {
+        "symbol": "EHPL",
+        "current_price": 444.0,
+        "target_high": 450.3026418943512,
+        "upside_pct": 1.4195139401692032,
+        "alpha_score": 66.20422157932,
+        "volatility": 0.011441441441441434
+    },
+    {
+        "symbol": "GIBF1",
+        "current_price": 11.27,
+        "target_high": 11.470770255361273,
+        "upside_pct": 1.7814574566217625,
+        "alpha_score": 66.17033699933658,
+        "volatility": 0.01692229686905816
+    },
+    {
+        "symbol": "MLBS",
+        "current_price": 1490.1,
+        "target_high": 1517.186818281141,
+        "upside_pct": 1.8177852681794013,
+        "alpha_score": 65.9856299066943,
+        "volatility": 0.017548199066217986
+    },
+    {
+        "symbol": "NUBL",
+        "current_price": 718.0,
+        "target_high": 729.8834254524792,
+        "upside_pct": 1.6550731827965293,
+        "alpha_score": 65.97452366844084,
+        "volatility": 0.015086549940310362
+    },
+    {
+        "symbol": "SMH",
+        "current_price": 635.0,
+        "target_high": 645.6356529410992,
+        "upside_pct": 1.6749059749762643,
+        "alpha_score": 65.65796859308135,
+        "volatility": 0.015509561304836895
+    },
+    {
+        "symbol": "SLBSL",
+        "current_price": 1280.0,
+        "target_high": 1305.376090083282,
+        "upside_pct": 1.9825070377563878,
+        "alpha_score": 65.47461503242624,
+        "volatility": 0.02027901785714285
+    },
+    {
+        "symbol": "PPCL",
+        "current_price": 427.0,
+        "target_high": 433.6652020402181,
+        "upside_pct": 1.5609372459527102,
+        "alpha_score": 65.29025228313259,
+        "volatility": 0.013907661425225808
+    },
+    {
+        "symbol": "UNLB",
+        "current_price": 1895.0,
+        "target_high": 1926.1257776120824,
+        "upside_pct": 1.6425212460201732,
+        "alpha_score": 65.15173831845466,
+        "volatility": 0.015210704862419893
+    },
+    {
+        "symbol": "GBIME",
+        "current_price": 247.6,
+        "target_high": 251.93077265959525,
+        "upside_pct": 1.7491004279463822,
+        "alpha_score": 65.0377770041335,
+        "volatility": 0.01689360720055388
+    },
+    {
+        "symbol": "PBD88",
+        "current_price": 1223.5,
+        "target_high": 1243.8297001038802,
+        "upside_pct": 1.661601970076043,
+        "alpha_score": 65.037201557133,
+        "volatility": 0.015548485025395523
+    },
+    {
+        "symbol": "GILB",
+        "current_price": 1220.0,
+        "target_high": 1242.5645109614118,
+        "upside_pct": 1.849550078804245,
+        "alpha_score": 65.00466149345952,
+        "volatility": 0.018452576112412158
+    },
+    {
+        "symbol": "MKCL",
+        "current_price": 1400.6,
+        "target_high": 1423.4619033879228,
+        "upside_pct": 1.6322935447610272,
+        "alpha_score": 64.79291787404472,
+        "volatility": 0.015192468533893654
+    },
+    {
+        "symbol": "PSF",
+        "current_price": 11.65,
+        "target_high": 11.81450250972871,
+        "upside_pct": 1.4120387101176712,
+        "alpha_score": 64.67383140134568,
+        "volatility": 0.011833231146535887
+    },
+    {
+        "symbol": "CFCL",
+        "current_price": 558.0,
+        "target_high": 566.1560629593856,
+        "upside_pct": 1.461660028563729,
+        "alpha_score": 64.6719989982999,
+        "volatility": 0.01260112647209425
+    },
+    {
+        "symbol": "MLBBL",
+        "current_price": 1356.0,
+        "target_high": 1376.83116260238,
+        "upside_pct": 1.5362214308539748,
+        "alpha_score": 64.48278162012046,
+        "volatility": 0.013823746312684345
+    },
+    {
+        "symbol": "GHL",
+        "current_price": 267.6,
+        "target_high": 271.7152416457815,
+        "upside_pct": 1.537833200964681,
+        "alpha_score": 64.44161675198072,
+        "volatility": 0.013863976083707008
+    },
+    {
+        "symbol": "AKPL",
+        "current_price": 296.0,
+        "target_high": 301.3379205190455,
+        "upside_pct": 1.8033515267045628,
+        "alpha_score": 64.20730927625839,
+        "volatility": 0.018086389961389945
+    },
+    {
+        "symbol": "MNBBL",
+        "current_price": 396.0,
+        "target_high": 401.90752820326196,
+        "upside_pct": 1.4918000513287837,
+        "alpha_score": 64.13756870544225,
+        "volatility": 0.013259379509379509
+    },
+    {
+        "symbol": "RHPL",
+        "current_price": 308.3,
+        "target_high": 312.99930000398655,
+        "upside_pct": 1.5242620836803564,
+        "alpha_score": 64.0343774267695,
+        "volatility": 0.013803808905982123
+    },
+    {
+        "symbol": "NIFRA",
+        "current_price": 284.2,
+        "target_high": 288.24069005963395,
+        "upside_pct": 1.4217769386467105,
+        "alpha_score": 63.972566194955746,
+        "volatility": 0.012224791394390208
+    },
+    {
+        "symbol": "PBLD87",
+        "current_price": 1113.0,
+        "target_high": 1128.372790721438,
+        "upside_pct": 1.3812031196260437,
+        "alpha_score": 63.61217453377771,
+        "volatility": 0.011712873828776794
+    },
+    {
+        "symbol": "NSY",
+        "current_price": 9.62,
+        "target_high": 9.79065448422579,
+        "upside_pct": 1.773955137482248,
+        "alpha_score": 63.59568726472241,
+        "volatility": 0.017894267894267898
+    },
+    {
+        "symbol": "SMPDA",
+        "current_price": 891.1,
+        "target_high": 905.7489748882056,
+        "upside_pct": 1.643920422871235,
+        "alpha_score": 63.48143043944177,
+        "volatility": 0.01589608349231286
+    },
+    {
+        "symbol": "NICBF",
+        "current_price": 10.55,
+        "target_high": 10.70428629287962,
+        "upside_pct": 1.4624293163945017,
+        "alpha_score": 63.21358209876134,
+        "volatility": 0.01313473256601223
+    },
+    {
+        "symbol": "CBLD88",
+        "current_price": 1240.0,
+        "target_high": 1256.3064405527523,
+        "upside_pct": 1.3150355284477524,
+        "alpha_score": 63.068808945086495,
+        "volatility": 0.010850806451612923
+    },
+    {
+        "symbol": "SPHL",
+        "current_price": 566.1,
+        "target_high": 573.5963282422525,
+        "upside_pct": 1.3242056601753345,
+        "alpha_score": 63.034460936451865,
+        "volatility": 0.011007646301763907
+    },
+    {
+        "symbol": "CIT",
+        "current_price": 1850.0,
+        "target_high": 1877.1244179028108,
+        "upside_pct": 1.4661847515032767,
+        "alpha_score": 63.024554900062824,
+        "volatility": 0.013263706563706571
+    },
+    {
+        "symbol": "RBBF40",
+        "current_price": 9.46,
+        "target_high": 9.57966826611866,
+        "upside_pct": 1.26499224226912,
+        "alpha_score": 62.87928710633619,
+        "volatility": 0.01011778918755664
+    },
+    {
+        "symbol": "SAHAS",
+        "current_price": 626.0,
+        "target_high": 635.194751453454,
+        "upside_pct": 1.468810136334501,
+        "alpha_score": 62.79648780348112,
+        "volatility": 0.01339000456412592
+    },
+    {
+        "symbol": "MHCL",
+        "current_price": 380.1,
+        "target_high": 386.21865842470595,
+        "upside_pct": 1.609749651330157,
+        "alpha_score": 62.795034194351764,
+        "volatility": 0.015634983275077972
+    },
+    {
+        "symbol": "NABILD2089",
+        "current_price": 1049.6,
+        "target_high": 1063.3534697857801,
+        "upside_pct": 1.3103534475781478,
+        "alpha_score": 62.40150406428594,
+        "volatility": 0.01099874782229966
+    },
+    {
+        "symbol": "LLBS",
+        "current_price": 1000.1,
+        "target_high": 1016.6285282248845,
+        "upside_pct": 1.65268755373307,
+        "alpha_score": 62.36777004947976,
+        "volatility": 0.01649906437927639
+    },
+    {
+        "symbol": "EBL",
+        "current_price": 706.0,
+        "target_high": 717.1308407654831,
+        "upside_pct": 1.5766063407199962,
+        "alpha_score": 62.34517732217026,
+        "volatility": 0.015288344799676222
+    },
+    {
+        "symbol": "JFL",
+        "current_price": 451.0,
+        "target_high": 456.68182968814295,
+        "upside_pct": 1.259829199144786,
+        "alpha_score": 62.28125245380655,
+        "volatility": 0.010228064618308537
+    },
+    {
+        "symbol": "LEC",
+        "current_price": 252.8,
+        "target_high": 255.97232912658626,
+        "upside_pct": 1.2548770279217714,
+        "alpha_score": 62.17466649709841,
+        "volatility": 0.010183092224231463
+    },
+    {
+        "symbol": "ALBSL",
+        "current_price": 1240.0,
+        "target_high": 1260.1521283004197,
+        "upside_pct": 1.62517163713063,
+        "alpha_score": 62.15955675638434,
+        "volatility": 0.01614516129032259
+    },
+    {
+        "symbol": "MERO",
+        "current_price": 775.0,
+        "target_high": 785.9835429814437,
+        "upside_pct": 1.4172313524443647,
+        "alpha_score": 61.9115037002108,
+        "volatility": 0.012891244239631337
+    },
+    {
+        "symbol": "NICLBSL",
+        "current_price": 631.0,
+        "target_high": 640.7908176705787,
+        "upside_pct": 1.5516351300441704,
+        "alpha_score": 61.86372134679875,
+        "volatility": 0.015081503282771115
+    },
+    {
+        "symbol": "GFCL",
+        "current_price": 676.0,
+        "target_high": 685.0178885492194,
+        "upside_pct": 1.334007181837187,
+        "alpha_score": 61.552552137424485,
+        "volatility": 0.011672654268808117
+    },
+    {
+        "symbol": "SBID2090",
+        "current_price": 1051.0,
+        "target_high": 1066.9712661346568,
+        "upside_pct": 1.5196257026314828,
+        "alpha_score": 61.524289652807056,
+        "volatility": 0.014699605817588658
+    },
+    {
+        "symbol": "GVL",
+        "current_price": 512.0,
+        "target_high": 518.4595597208762,
+        "upside_pct": 1.261632757983633,
+        "alpha_score": 61.44437837496042,
+        "volatility": 0.010532924107142873
+    },
+    {
+        "symbol": "UNHPL",
+        "current_price": 549.0,
+        "target_high": 558.6423479900772,
+        "upside_pct": 1.7563475391761711,
+        "alpha_score": 61.16023552966687,
+        "volatility": 0.018717148061410314
+    },
+    {
+        "symbol": "HATHY",
+        "current_price": 935.0,
+        "target_high": 947.9533410768429,
+        "upside_pct": 1.3853840723896074,
+        "alpha_score": 61.03485967817705,
+        "volatility": 0.012698242933537045
+    },
+    {
+        "symbol": "SOHL",
+        "current_price": 655.7,
+        "target_high": 666.9537406268854,
+        "upside_pct": 1.7162941325126324,
+        "alpha_score": 60.718969922843016,
+        "volatility": 0.01826619316324975
+    },
+    {
+        "symbol": "SWBBL",
+        "current_price": 774.3,
+        "target_high": 785.1000161805017,
+        "upside_pct": 1.3948103035647375,
+        "alpha_score": 60.083061738839696,
+        "volatility": 0.013214700835777906
+    },
+    {
+        "symbol": "HIDCL",
+        "current_price": 296.2,
+        "target_high": 300.7641917716655,
+        "upside_pct": 1.5409155204812535,
+        "alpha_score": 60.0562837678497,
+        "volatility": 0.0156578566605575
+    },
+    {
+        "symbol": "SWMF",
+        "current_price": 708.1,
+        "target_high": 719.4612481736094,
+        "upside_pct": 1.6044694497400593,
+        "alpha_score": 59.586817127279055,
+        "volatility": 0.016926584219339475
+    },
+    {
+        "symbol": "ICFC",
+        "current_price": 670.0,
+        "target_high": 678.4562109057756,
+        "upside_pct": 1.2621210307127626,
+        "alpha_score": 59.35968345410005,
+        "volatility": 0.011262260127931767
+    },
+    {
+        "symbol": "MEHL",
+        "current_price": 465.1,
+        "target_high": 471.4778636662211,
+        "upside_pct": 1.371288683341443,
+        "alpha_score": 59.103546160884584,
+        "volatility": 0.013201462051171777
+    },
+    {
+        "symbol": "SHLB",
+        "current_price": 1683.0,
+        "target_high": 1707.6713356635512,
+        "upside_pct": 1.4659141808408296,
+        "alpha_score": 58.687378817024566,
+        "volatility": 0.014978354978354971
+    },
+    {
+        "symbol": "GBLBS",
+        "current_price": 801.2,
+        "target_high": 811.3919915216226,
+        "upside_pct": 1.2720908039968082,
+        "alpha_score": 58.53429543775797,
+        "volatility": 0.011732401397903167
+    },
+    {
+        "symbol": "GLBSL",
+        "current_price": 1960.0,
+        "target_high": 1988.330545765465,
+        "upside_pct": 1.4454360084420812,
+        "alpha_score": 58.49620091978458,
+        "volatility": 0.014709912536443135
+    },
+    {
+        "symbol": "AKJCL",
+        "current_price": 395.0,
+        "target_high": 400.86014131453874,
+        "upside_pct": 1.483580079630056,
+        "alpha_score": 58.38871141096158,
+        "volatility": 0.015408679927667266
+    },
+    {
+        "symbol": "GWFD83",
+        "current_price": 1125.0,
+        "target_high": 1141.15727188477,
+        "upside_pct": 1.4362019453128816,
+        "alpha_score": 58.385206717801516,
+        "volatility": 0.014598730158730205
+    },
+    {
+        "symbol": "SONA",
+        "current_price": 473.5,
+        "target_high": 479.82947350962314,
+        "upside_pct": 1.3367420294874683,
+        "alpha_score": 58.31696553782448,
+        "volatility": 0.012922009352843562
+    },
+    {
+        "symbol": "KEF",
+        "current_price": 10.0,
+        "target_high": 10.128136950837405,
+        "upside_pct": 1.2813695083740597,
+        "alpha_score": 58.2440685624572,
+        "volatility": 0.012000000000000023
+    },
+    {
+        "symbol": "NGPL",
+        "current_price": 477.1,
+        "target_high": 484.4607343915743,
+        "upside_pct": 1.5428074599820212,
+        "alpha_score": 58.127231719748636,
+        "volatility": 0.016541904961523475
+    },
+    {
+        "symbol": "C30MF",
+        "current_price": 10.1,
+        "target_high": 10.24640787870865,
+        "upside_pct": 1.4495829575113932,
+        "alpha_score": 57.99972557784696,
+        "volatility": 0.014992927864214975
+    },
+    {
+        "symbol": "MEN",
+        "current_price": 615.0,
+        "target_high": 624.5318406114972,
+        "upside_pct": 1.5498927823572726,
+        "alpha_score": 57.81879053767814,
+        "volatility": 0.016806039488966324
+    },
+    {
+        "symbol": "PRSF",
+        "current_price": 11.86,
+        "target_high": 12.03130050594164,
+        "upside_pct": 1.4443550248030437,
+        "alpha_score": 57.64366607016087,
+        "volatility": 0.015056612864370041
+    },
+    {
+        "symbol": "SIGS2",
+        "current_price": 10.17,
+        "target_high": 10.326385791716827,
+        "upside_pct": 1.5377167327121737,
+        "alpha_score": 57.55825974119548,
+        "volatility": 0.016715830875122902
+    },
+    {
+        "symbol": "SARBTM",
+        "current_price": 881.0,
+        "target_high": 892.6783228906501,
+        "upside_pct": 1.3255758105164643,
+        "alpha_score": 57.52463601052032,
+        "volatility": 0.013043619263823558
+    },
+    {
+        "symbol": "SHINE",
+        "current_price": 429.7,
+        "target_high": 436.44571077262805,
+        "upside_pct": 1.5698652019148502,
+        "alpha_score": 57.456409286961964,
+        "volatility": 0.017322716845639793
+    },
+    {
+        "symbol": "ICFCD83",
+        "current_price": 1105.0,
+        "target_high": 1119.5505813312013,
+        "upside_pct": 1.316794690606468,
+        "alpha_score": 57.42948849393043,
+        "volatility": 0.012928894634776988
+    },
+    {
+        "symbol": "CBBL",
+        "current_price": 950.0,
+        "target_high": 961.5062840224363,
+        "upside_pct": 1.2111877918354037,
+        "alpha_score": 57.37772976459796,
+        "volatility": 0.011109022556390968
+    },
+    {
+        "symbol": "MBL",
+        "current_price": 252.9,
+        "target_high": 256.603048881982,
+        "upside_pct": 1.4642344333657484,
+        "alpha_score": 57.230349444448024,
+        "volatility": 0.015584929108060782
+    },
+    {
+        "symbol": "JHAPA",
+        "current_price": 1420.0,
+        "target_high": 1440.8557722553508,
+        "upside_pct": 1.4687163560106131,
+        "alpha_score": 56.974089052238156,
+        "volatility": 0.015778672032193138
+    },
+    {
+        "symbol": "PHCL",
+        "current_price": 337.1,
+        "target_high": 341.24092036481267,
+        "upside_pct": 1.228395243195679,
+        "alpha_score": 56.967970114556145,
+        "volatility": 0.011562910539475342
+    },
+    {
+        "symbol": "FOWAD",
+        "current_price": 1117.0,
+        "target_high": 1131.895620285534,
+        "upside_pct": 1.3335380739063711,
+        "alpha_score": 56.68352378295136,
+        "volatility": 0.01352602634608009
+    },
+    {
+        "symbol": "SADBL",
+        "current_price": 444.0,
+        "target_high": 449.96325784423516,
+        "upside_pct": 1.343076091043968,
+        "alpha_score": 56.63112862521577,
+        "volatility": 0.013716216216216206
+    },
+    {
+        "symbol": "ILI",
+        "current_price": 460.1,
+        "target_high": 466.4872815388003,
+        "upside_pct": 1.3882376741578466,
+        "alpha_score": 56.56609242124663,
+        "volatility": 0.014541869779861522
+    },
+    {
+        "symbol": "UAIL",
+        "current_price": 486.0,
+        "target_high": 491.83022895155125,
+        "upside_pct": 1.1996355867389452,
+        "alpha_score": 56.529680256055045,
+        "volatility": 0.011221340388007041
+    },
+    {
+        "symbol": "NICGF2",
+        "current_price": 9.5,
+        "target_high": 9.619873654054818,
+        "upside_pct": 1.26182793741913,
+        "alpha_score": 56.50609955445937,
+        "volatility": 0.012330827067669164
+    },
+    {
+        "symbol": "LVF2",
+        "current_price": 9.95,
+        "target_high": 10.093592758805924,
+        "upside_pct": 1.4431433045821505,
+        "alpha_score": 56.42151623022553,
+        "volatility": 0.015577889447236181
+    },
+    {
+        "symbol": "SPC",
+        "current_price": 510.3,
+        "target_high": 518.4659636170968,
+        "upside_pct": 1.6002280260820556,
+        "alpha_score": 56.36085753411737,
+        "volatility": 0.018392542202065976
+    },
+    {
+        "symbol": "GBBLPO",
+        "current_price": 242.0,
+        "target_high": 245.1891509473352,
+        "upside_pct": 1.3178309699732154,
+        "alpha_score": 56.097641993582776,
+        "volatility": 0.013491735537190085
+    },
+    {
+        "symbol": "RNLI",
+        "current_price": 487.0,
+        "target_high": 493.3687409893002,
+        "upside_pct": 1.3077496897947072,
+        "alpha_score": 56.02059176313341,
+        "volatility": 0.013344089175711355
+    },
+    {
+        "symbol": "SAIL",
+        "current_price": 1345.0,
+        "target_high": 1367.0324834773398,
+        "upside_pct": 1.6381028607687513,
+        "alpha_score": 55.33019456890939,
+        "volatility": 0.019605947955390314
+    },
+    {
+        "symbol": "NIMB",
+        "current_price": 219.5,
+        "target_high": 222.6052537863882,
+        "upside_pct": 1.414694207921731,
+        "alpha_score": 55.190495124330056,
+        "volatility": 0.01563293198828507
+    },
+    {
+        "symbol": "SBD87",
+        "current_price": 1074.0,
+        "target_high": 1088.1881665347912,
+        "upside_pct": 1.3210583365727393,
+        "alpha_score": 55.09509097358803,
+        "volatility": 0.01397778664538443
+    },
+    {
+        "symbol": "NICAD85/86",
+        "current_price": 1122.0,
+        "target_high": 1139.274184063791,
+        "upside_pct": 1.5395885974858194,
+        "alpha_score": 54.77037184759883,
+        "volatility": 0.018109880315762657
+    },
+    {
+        "symbol": "BGWT",
+        "current_price": 771.6,
+        "target_high": 782.2319782595597,
+        "upside_pct": 1.3779132010834194,
+        "alpha_score": 54.726636726364596,
+        "volatility": 0.015178108568466239
+    },
+    {
+        "symbol": "KSBBL",
+        "current_price": 497.4,
+        "target_high": 503.28102822542263,
+        "upside_pct": 1.1823538852880333,
+        "alpha_score": 54.69778985418964,
+        "volatility": 0.01161611809983342
+    },
+    {
+        "symbol": "SALICO",
+        "current_price": 636.0,
+        "target_high": 646.0774503364051,
+        "upside_pct": 1.5845047698750228,
+        "alpha_score": 54.588626314440646,
+        "volatility": 0.01902628032345017
+    },
+    {
+        "symbol": "SICL",
+        "current_price": 669.0,
+        "target_high": 677.3744078064875,
+        "upside_pct": 1.2517799411789978,
+        "alpha_score": 54.49807525255659,
+        "volatility": 0.012969250480461233
+    },
+    {
+        "symbol": "ANLB",
+        "current_price": 6400.0,
+        "target_high": 6492.056983516709,
+        "upside_pct": 1.4383903674485694,
+        "alpha_score": 54.44420469983058,
+        "volatility": 0.016419531249999973
+    },
+    {
+        "symbol": "NICL",
+        "current_price": 536.2,
+        "target_high": 544.3809276074568,
+        "upside_pct": 1.5257231643895497,
+        "alpha_score": 54.30986424281829,
+        "volatility": 0.018092929077636297
+    },
+    {
+        "symbol": "KDBY",
+        "current_price": 10.32,
+        "target_high": 10.4924086233782,
+        "upside_pct": 1.6706261955251862,
+        "alpha_score": 54.18247120622231,
+        "volatility": 0.020833333333333304
+    },
+    {
+        "symbol": "GMLI",
+        "current_price": 1732.1,
+        "target_high": 1757.7732634259519,
+        "upside_pct": 1.4822044585157812,
+        "alpha_score": 53.99911780150742,
+        "volatility": 0.017448679142576747
+    },
+    {
+        "symbol": "SMFBS",
+        "current_price": 1678.0,
+        "target_high": 1702.3742996049389,
+        "upside_pct": 1.4525804293765603,
+        "alpha_score": 53.93993242007833,
+        "volatility": 0.0169295930529542
+    },
+    {
+        "symbol": "SYPNL",
+        "current_price": 1940.0,
+        "target_high": 1965.5922447583855,
+        "upside_pct": 1.3191878741435688,
+        "alpha_score": 53.88246133053514,
+        "volatility": 0.014482695139911624
+    },
+    {
+        "symbol": "RADHI",
+        "current_price": 890.2,
+        "target_high": 904.7617987028852,
+        "upside_pct": 1.6357895644669944,
+        "alpha_score": 53.6348999048647,
+        "volatility": 0.02049860384504284
+    },
+    {
+        "symbol": "SPL",
+        "current_price": 747.1,
+        "target_high": 757.103310646678,
+        "upside_pct": 1.3389520340888756,
+        "alpha_score": 53.33189221897368,
+        "volatility": 0.01510602902652162
+    },
+    {
+        "symbol": "MCHL",
+        "current_price": 416.0,
+        "target_high": 421.57090514823994,
+        "upside_pct": 1.339159891403825,
+        "alpha_score": 52.97695426936475,
+        "volatility": 0.015278159340659335
+    },
+    {
+        "symbol": "BHPL",
+        "current_price": 577.0,
+        "target_high": 583.5190742687046,
+        "upside_pct": 1.129822230278079,
+        "alpha_score": 52.78907962395925,
+        "volatility": 0.01140257489477595
+    },
+    {
+        "symbol": "SLBBL",
+        "current_price": 868.3,
+        "target_high": 880.4920106509167,
+        "upside_pct": 1.404124225603676,
+        "alpha_score": 52.744690899235536,
+        "volatility": 0.016621148056135952
+    },
+    {
+        "symbol": "NHDL",
+        "current_price": 670.0,
+        "target_high": 676.8581672302118,
+        "upside_pct": 1.0236070492853369,
+        "alpha_score": 52.515638146346085,
+        "volatility": 0.009491471215351821
+    },
+    {
+        "symbol": "KSY",
+        "current_price": 9.56,
+        "target_high": 9.675860547430503,
+        "upside_pct": 1.21193041245296,
+        "alpha_score": 52.3511381366848,
+        "volatility": 0.013150029886431557
+    },
+    {
+        "symbol": "JSLBB",
+        "current_price": 1202.0,
+        "target_high": 1218.4905951982419,
+        "upside_pct": 1.3719297169918183,
+        "alpha_score": 52.25038650568815,
+        "volatility": 0.016256833848348
+    },
+    {
+        "symbol": "MFIL",
+        "current_price": 852.6,
+        "target_high": 862.7161509718993,
+        "upside_pct": 1.1865060956954303,
+        "alpha_score": 51.928294091161824,
+        "volatility": 0.012848932676518893
+    },
+    {
+        "symbol": "CGH",
+        "current_price": 872.1,
+        "target_high": 880.2733783789322,
+        "upside_pct": 0.9372065564650928,
+        "alpha_score": 51.905294213327515,
+        "volatility": 0.008056087932248924
+    },
+    {
+        "symbol": "UMRH",
+        "current_price": 572.0,
+        "target_high": 578.937804585798,
+        "upside_pct": 1.212902899615021,
+        "alpha_score": 51.893606988924944,
+        "volatility": 0.01337287712287714
+    },
+    {
+        "symbol": "HEIP",
+        "current_price": 323.6,
+        "target_high": 327.8531821621226,
+        "upside_pct": 1.3143331774173694,
+        "alpha_score": 51.839175259190434,
+        "volatility": 0.015354052622285008
+    },
+    {
+        "symbol": "SABBL",
+        "current_price": 1600.0,
+        "target_high": 1620.2459810969983,
+        "upside_pct": 1.265373818562394,
+        "alpha_score": 51.726141094946094,
+        "volatility": 0.01446294642857144
+    },
+    {
+        "symbol": "NLG",
+        "current_price": 682.5,
+        "target_high": 690.1489812190307,
+        "upside_pct": 1.1207298489422302,
+        "alpha_score": 51.45384252663373,
+        "volatility": 0.011781266352694919
+    },
+    {
+        "symbol": "IHL",
+        "current_price": 515.2,
+        "target_high": 521.7282757121533,
+        "upside_pct": 1.2671342608992948,
+        "alpha_score": 51.02265417474894,
+        "volatility": 0.014834738243123351
+    },
+    {
+        "symbol": "SBI",
+        "current_price": 419.5,
+        "target_high": 423.8410646185917,
+        "upside_pct": 1.034818741023058,
+        "alpha_score": 51.01989981555085,
+        "volatility": 0.010282649412565986
+    },
+    {
+        "symbol": "NMLBBL",
+        "current_price": 658.0,
+        "target_high": 666.1299103259933,
+        "upside_pct": 1.2355486817618948,
+        "alpha_score": 50.939287756849986,
+        "volatility": 0.0142553191489362
+    },
+    {
+        "symbol": "WNLB",
+        "current_price": 1630.0,
+        "target_high": 1653.5182899170536,
+        "upside_pct": 1.442839872211873,
+        "alpha_score": 50.76489906393088,
+        "volatility": 0.018421998247151627
+    },
+    {
+        "symbol": "NRN",
+        "current_price": 1588.0,
+        "target_high": 1605.314229301691,
+        "upside_pct": 1.0903167066556028,
+        "alpha_score": 50.55882075414517,
+        "volatility": 0.011565311263044265
+    },
+    {
+        "symbol": "SFCL",
+        "current_price": 424.1,
+        "target_high": 428.64283510457,
+        "upside_pct": 1.071170739111055,
+        "alpha_score": 50.08875160582465,
+        "volatility": 0.011385454912924843
+    },
+    {
+        "symbol": "NIL",
+        "current_price": 655.0,
+        "target_high": 662.4260677350442,
+        "upside_pct": 1.1337507992433875,
+        "alpha_score": 49.677440888101295,
+        "volatility": 0.012822246455834295
+    },
+    {
+        "symbol": "NICA",
+        "current_price": 390.0,
+        "target_high": 394.6521547787587,
+        "upside_pct": 1.1928601996817136,
+        "alpha_score": 49.675972010236876,
+        "volatility": 0.01401282051282051
+    },
+    {
+        "symbol": "GBBL",
+        "current_price": 420.0,
+        "target_high": 424.6936100000463,
+        "upside_pct": 1.1175261904872245,
+        "alpha_score": 49.53304688726732,
+        "volatility": 0.01256122448979591
+    },
+    {
+        "symbol": "PMHPL",
+        "current_price": 387.1,
+        "target_high": 392.28060274652177,
+        "upside_pct": 1.338311223591249,
+        "alpha_score": 49.42177961166586,
+        "volatility": 0.01707938148134481
+    },
+    {
+        "symbol": "ULHC",
+        "current_price": 545.0,
+        "target_high": 551.4954952937358,
+        "upside_pct": 1.1918339988505995,
+        "alpha_score": 49.31504019105248,
+        "volatility": 0.014167758846657918
+    },
+    {
+        "symbol": "BHCL",
+        "current_price": 605.0,
+        "target_high": 611.9456976825654,
+        "upside_pct": 1.1480492037298071,
+        "alpha_score": 48.68317190142917,
+        "volatility": 0.013582054309327045
+    },
+    {
+        "symbol": "NHPC",
+        "current_price": 300.0,
+        "target_high": 304.5036152073148,
+        "upside_pct": 1.501205069104946,
+        "alpha_score": 48.20014746763075,
+        "volatility": 0.02114523809523807
+    },
+    {
+        "symbol": "SBCF",
+        "current_price": 9.82,
+        "target_high": 9.97462166898257,
+        "upside_pct": 1.5745587472766744,
+        "alpha_score": 47.9468274509607,
+        "volatility": 0.022839685772475974
+    },
+    {
+        "symbol": "KMCDB",
+        "current_price": 965.0,
+        "target_high": 979.27233623296,
+        "upside_pct": 1.4789985733637305,
+        "alpha_score": 47.92131313829621,
+        "volatility": 0.02086306439674317
+    },
+    {
+        "symbol": "SJCL",
+        "current_price": 345.9,
+        "target_high": 350.02656259078464,
+        "upside_pct": 1.1929929432739836,
+        "alpha_score": 47.90927327466372,
+        "volatility": 0.01490108619336717
+    },
+    {
+        "symbol": "RSML",
+        "current_price": 1821.0,
+        "target_high": 1847.0483455303056,
+        "upside_pct": 1.4304418193468087,
+        "alpha_score": 47.852828761321035,
+        "volatility": 0.01989252373107398
+    },
+    {
+        "symbol": "SAGAR",
+        "current_price": 2011.0,
+        "target_high": 2038.6300554819347,
+        "upside_pct": 1.3739460707078535,
+        "alpha_score": 47.66150526701446,
+        "volatility": 0.018827164878880424
+    },
+    {
+        "symbol": "MHNL",
+        "current_price": 305.7,
+        "target_high": 309.49803456095975,
+        "upside_pct": 1.2424058099312132,
+        "alpha_score": 47.219099756177236,
+        "volatility": 0.016311509883639424
+    },
+    {
+        "symbol": "MBJC",
+        "current_price": 311.3,
+        "target_high": 314.4804769260185,
+        "upside_pct": 1.0216758515960458,
+        "alpha_score": 47.152106239684514,
+        "volatility": 0.011667660960947172
+    },
+    {
+        "symbol": "SWMFPO",
+        "current_price": 382.0,
+        "target_high": 386.2817738395959,
+        "upside_pct": 1.1208832040826922,
+        "alpha_score": 46.93457074408264,
+        "volatility": 0.013881824981301433
+    },
+    {
+        "symbol": "CLI",
+        "current_price": 486.0,
+        "target_high": 491.4526626218127,
+        "upside_pct": 1.1219470415252493,
+        "alpha_score": 46.5215898015589,
+        "volatility": 0.014116696061140492
+    },
+    {
+        "symbol": "RURU",
+        "current_price": 685.0,
+        "target_high": 693.3813719503559,
+        "upside_pct": 1.2235579489570627,
+        "alpha_score": 46.43235618099095,
+        "volatility": 0.01635140771637124
+    },
+    {
+        "symbol": "IGI",
+        "current_price": 470.0,
+        "target_high": 475.5502567533925,
+        "upside_pct": 1.180905692211156,
+        "alpha_score": 46.293473069701555,
+        "volatility": 0.015509118541033437
+    },
+    {
+        "symbol": "API",
+        "current_price": 354.0,
+        "target_high": 357.6701388830238,
+        "upside_pct": 1.0367623963344146,
+        "alpha_score": 46.24421236822399,
+        "volatility": 0.012419289749798182
+    },
+    {
+        "symbol": "NMBD89/90",
+        "current_price": 1300.0,
+        "target_high": 1314.7993817383178,
+        "upside_pct": 1.1384139798705972,
+        "alpha_score": 45.98937768277739,
+        "volatility": 0.014753846153846154
+    },
+    {
+        "symbol": "HIMSTAR",
+        "current_price": 975.0,
+        "target_high": 987.2957525511165,
+        "upside_pct": 1.2611028257555297,
+        "alpha_score": 45.84179801220466,
+        "volatility": 0.017509890109890118
+    },
+    {
+        "symbol": "JOSHI",
+        "current_price": 310.1,
+        "target_high": 313.5357004018463,
+        "upside_pct": 1.1079330544489883,
+        "alpha_score": 45.75965677821068,
+        "volatility": 0.01421200534389828
+    },
+    {
+        "symbol": "CYCL",
+        "current_price": 1612.1,
+        "target_high": 1632.7094513098127,
+        "upside_pct": 1.2784226356809694,
+        "alpha_score": 45.714318043706676,
+        "volatility": 0.017965475378166892
+    },
+    {
+        "symbol": "KDL",
+        "current_price": 890.2,
+        "target_high": 899.7806586777746,
+        "upside_pct": 1.0762366521876618,
+        "alpha_score": 45.68620702782263,
+        "volatility": 0.013557146066694486
+    },
+    {
+        "symbol": "ADBL",
+        "current_price": 321.5,
+        "target_high": 325.2679172354794,
+        "upside_pct": 1.1719804775985636,
+        "alpha_score": 45.59671648086381,
+        "volatility": 0.01570317707176183
+    },
+    {
+        "symbol": "NLIC",
+        "current_price": 815.0,
+        "target_high": 825.5098445086335,
+        "upside_pct": 1.2895514734519486,
+        "alpha_score": 45.50841986912887,
+        "volatility": 0.018336546888694103
+    },
+    {
+        "symbol": "NIBLSTF",
+        "current_price": 9.42,
+        "target_high": 9.566175795128062,
+        "upside_pct": 1.5517600332066035,
+        "alpha_score": 45.489044451695335,
+        "volatility": 0.024112829845313908
+    },
+    {
+        "symbol": "NRM",
+        "current_price": 442.5,
+        "target_high": 447.8897349840705,
+        "upside_pct": 1.2180192054396586,
+        "alpha_score": 45.159069828826865,
+        "volatility": 0.016971751412429393
+    },
+    {
+        "symbol": "EBLD85",
+        "current_price": 1147.7,
+        "target_high": 1161.4206696897072,
+        "upside_pct": 1.1954926975435392,
+        "alpha_score": 44.603693802483846,
+        "volatility": 0.016802549197774415
+    },
+    {
+        "symbol": "NIFRAGED",
+        "current_price": 1032.0,
+        "target_high": 1044.2688032904318,
+        "upside_pct": 1.1888375281426329,
+        "alpha_score": 44.40162497829786,
+        "volatility": 0.0167746400885936
+    },
+    {
+        "symbol": "NWCL",
+        "current_price": 903.1,
+        "target_high": 913.1985798301473,
+        "upside_pct": 1.1182128036925303,
+        "alpha_score": 44.04996280528094,
+        "volatility": 0.015385102108610025
+    },
+    {
+        "symbol": "ALICL",
+        "current_price": 479.0,
+        "target_high": 484.157320330846,
+        "upside_pct": 1.076684828986641,
+        "alpha_score": 43.80687090877569,
+        "volatility": 0.014577989859827035
+    },
+    {
+        "symbol": "PPL",
+        "current_price": 388.0,
+        "target_high": 392.4848894099018,
+        "upside_pct": 1.1558993324489364,
+        "alpha_score": 43.50641057277313,
+        "volatility": 0.016568483063328445
+    },
+    {
+        "symbol": "EBLD91",
+        "current_price": 1090.7,
+        "target_high": 1102.2285662802753,
+        "upside_pct": 1.0569878316929708,
+        "alpha_score": 43.48784762644979,
+        "volatility": 0.014305360908459838
+    },
+    {
+        "symbol": "NYADI",
+        "current_price": 432.2,
+        "target_high": 436.94097680867594,
+        "upside_pct": 1.0969404925210513,
+        "alpha_score": 43.40474981458284,
+        "volatility": 0.015272360679579555
+    },
+    {
+        "symbol": "GSY",
+        "current_price": 9.95,
+        "target_high": 10.08024693768893,
+        "upside_pct": 1.3090144491349762,
+        "alpha_score": 43.17918843582811,
+        "volatility": 0.020315865039483145
+    },
+    {
+        "symbol": "NIBD84",
+        "current_price": 1074.0,
+        "target_high": 1083.2183749187577,
+        "upside_pct": 0.8583216870351574,
+        "alpha_score": 42.752591798657164,
+        "volatility": 0.010076483107209348
+    },
+    {
+        "symbol": "CZBIL",
+        "current_price": 222.5,
+        "target_high": 224.97470346666907,
+        "upside_pct": 1.1122262771546478,
+        "alpha_score": 42.5415625409716,
+        "volatility": 0.016144462279293746
+    },
+    {
+        "symbol": "PFL",
+        "current_price": 422.0,
+        "target_high": 426.8899430527052,
+        "upside_pct": 1.158754277892225,
+        "alpha_score": 42.17545757631386,
+        "volatility": 0.017474610697359512
+    },
+    {
+        "symbol": "HPPL",
+        "current_price": 408.3,
+        "target_high": 412.4318955909924,
+        "upside_pct": 1.0119754080314343,
+        "alpha_score": 41.9080635460566,
+        "volatility": 0.014147510583954376
+    },
+    {
+        "symbol": "SMB",
+        "current_price": 1930.0,
+        "target_high": 1951.6421160296575,
+        "upside_pct": 1.1213531621584312,
+        "alpha_score": 41.880053687811234,
+        "volatility": 0.016775351591413783
+    },
+    {
+        "symbol": "LSL",
+        "current_price": 229.5,
+        "target_high": 232.08785104006176,
+        "upside_pct": 1.1276039390247308,
+        "alpha_score": 41.831098673206995,
+        "volatility": 0.016956115779645207
+    },
+    {
+        "symbol": "FMDBL",
+        "current_price": 871.2,
+        "target_high": 879.5511589973314,
+        "upside_pct": 0.958581152127108,
+        "alpha_score": 41.68017524014971,
+        "volatility": 0.012998491407582313
+    },
+    {
+        "symbol": "NMBHF2",
+        "current_price": 9.74,
+        "target_high": 9.837177349776795,
+        "upside_pct": 0.9977140634167856,
+        "alpha_score": 41.55922827697725,
+        "volatility": 0.014007040187738368
+    },
+    {
+        "symbol": "SAPDBL",
+        "current_price": 902.0,
+        "target_high": 912.6341128557219,
+        "upside_pct": 1.1789482101687347,
+        "alpha_score": 41.056086255614105,
+        "volatility": 0.018715552739942975
+    },
+    {
+        "symbol": "UPCL",
+        "current_price": 401.8,
+        "target_high": 405.9576622366958,
+        "upside_pct": 1.0347591430303054,
+        "alpha_score": 40.78367127264246,
+        "volatility": 0.015371897888075076
+    },
+    {
+        "symbol": "AVYAN",
+        "current_price": 1201.0,
+        "target_high": 1215.9996747793014,
+        "upside_pct": 1.2489321215071798,
+        "alpha_score": 40.602367925409325,
+        "volatility": 0.020760080884976828
+    },
+    {
+        "symbol": "SHIVM",
+        "current_price": 691.0,
+        "target_high": 698.0996661074755,
+        "upside_pct": 1.0274480618633184,
+        "alpha_score": 40.576145290928054,
+        "volatility": 0.01532148025635726
+    },
+    {
+        "symbol": "OMPL",
+        "current_price": 1350.0,
+        "target_high": 1365.742353258868,
+        "upside_pct": 1.1661002413976223,
+        "alpha_score": 40.549187817219355,
+        "volatility": 0.018757671957671956
+    },
+    {
+        "symbol": "MMF1",
+        "current_price": 9.56,
+        "target_high": 9.64075239016022,
+        "upside_pct": 0.8446902736424717,
+        "alpha_score": 40.54416375853842,
+        "volatility": 0.010833831440525982
+    },
+    {
+        "symbol": "NIBSF2",
+        "current_price": 9.52,
+        "target_high": 9.623397137613837,
+        "upside_pct": 1.0861043866999904,
+        "alpha_score": 40.403034682196854,
+        "volatility": 0.016881752701080405
+    },
+    {
+        "symbol": "TVCL",
+        "current_price": 609.5,
+        "target_high": 615.5934322171219,
+        "upside_pct": 0.9997427755737338,
+        "alpha_score": 40.2567368409734,
+        "volatility": 0.014834173209891003
+    },
+    {
+        "symbol": "UPPER",
+        "current_price": 226.0,
+        "target_high": 228.5151837127598,
+        "upside_pct": 1.1129131472388387,
+        "alpha_score": 39.95979570884802,
+        "volatility": 0.01785082174462704
+    },
+    {
+        "symbol": "MEL",
+        "current_price": 295.1,
+        "target_high": 297.55781239147666,
+        "upside_pct": 0.8328744125640907,
+        "alpha_score": 39.24247694068803,
+        "volatility": 0.011223798228203487
+    },
+    {
+        "symbol": "ACLBSL",
+        "current_price": 1025.0,
+        "target_high": 1035.1001504470455,
+        "upside_pct": 0.9853805314190689,
+        "alpha_score": 39.12079298897116,
+        "volatility": 0.015188153310104549
+    },
+    {
+        "symbol": "CKHL",
+        "current_price": 689.5,
+        "target_high": 695.5811407412834,
+        "upside_pct": 0.881963849352201,
+        "alpha_score": 38.915742733449704,
+        "volatility": 0.012663420698228543
+    },
+    {
+        "symbol": "SANVI",
+        "current_price": 838.0,
+        "target_high": 847.1247241125552,
+        "upside_pct": 1.0888692258419077,
+        "alpha_score": 38.83097379043484,
+        "volatility": 0.01804125468803275
+    },
+    {
+        "symbol": "HDL",
+        "current_price": 1215.2,
+        "target_high": 1227.8508618009987,
+        "upside_pct": 1.0410518269419546,
+        "alpha_score": 38.715727704228684,
+        "volatility": 0.01688963603874729
+    },
+    {
+        "symbol": "MDB",
+        "current_price": 645.0,
+        "target_high": 650.9816206522387,
+        "upside_pct": 0.9273830468587063,
+        "alpha_score": 38.55734109827392,
+        "volatility": 0.014052048726467342
+    },
+    {
+        "symbol": "SJLIC",
+        "current_price": 456.0,
+        "target_high": 461.3088294936425,
+        "upside_pct": 1.1642169942198528,
+        "alpha_score": 38.535600617511996,
+        "volatility": 0.02021146616541354
+    },
+    {
+        "symbol": "DLBS",
+        "current_price": 1370.0,
+        "target_high": 1381.2627631961054,
+        "upside_pct": 0.8220995033653641,
+        "alpha_score": 37.959191301060955,
+        "volatility": 0.011657455683003089
+    },
+    {
+        "symbol": "BARUN",
+        "current_price": 375.6,
+        "target_high": 378.5828315147756,
+        "upside_pct": 0.7941510955206652,
+        "alpha_score": 37.91367773719736,
+        "volatility": 0.010946295451087782
+    },
+    {
+        "symbol": "HFIN",
+        "current_price": 237.3,
+        "target_high": 240.19163665989296,
+        "upside_pct": 1.21855737880023,
+        "alpha_score": 37.542578491079865,
+        "volatility": 0.022458009752573598
+    },
+    {
+        "symbol": "VLUCL",
+        "current_price": 572.0,
+        "target_high": 577.0837987974469,
+        "upside_pct": 0.8887760135396725,
+        "alpha_score": 37.48126976894886,
+        "volatility": 0.013712537462537455
+    },
+    {
+        "symbol": "SIFC",
+        "current_price": 598.4,
+        "target_high": 604.3527351734677,
+        "upside_pct": 0.9947752629458243,
+        "alpha_score": 37.34363318272017,
+        "volatility": 0.016638416730328523
+    },
+    {
+        "symbol": "MATRI",
+        "current_price": 1000.0,
+        "target_high": 1008.0833726001888,
+        "upside_pct": 0.808337260018882,
+        "alpha_score": 36.86108478637287,
+        "volatility": 0.011929285714285738
+    },
+    {
+        "symbol": "VLBS",
+        "current_price": 805.0,
+        "target_high": 811.6061809778016,
+        "upside_pct": 0.8206435997269175,
+        "alpha_score": 36.813491099480004,
+        "volatility": 0.012291925465838507
+    },
+    {
+        "symbol": "ILBS",
+        "current_price": 1026.1,
+        "target_high": 1036.7634593491543,
+        "upside_pct": 1.0392222345925795,
+        "alpha_score": 36.46392914950691,
+        "volatility": 0.01850000696117062
+    },
+    {
+        "symbol": "SBLD89",
+        "current_price": 1240.5,
+        "target_high": 1250.454129468758,
+        "upside_pct": 0.8024288165060924,
+        "alpha_score": 36.049826050291806,
+        "volatility": 0.012258881787297754
+    },
+    {
+        "symbol": "GMFIL",
+        "current_price": 512.0,
+        "target_high": 517.2196315594372,
+        "upside_pct": 1.0194592889525764,
+        "alpha_score": 35.69501847993387,
+        "volatility": 0.018560267857142876
+    },
+    {
+        "symbol": "SIKLES",
+        "current_price": 625.3,
+        "target_high": 631.1647964706667,
+        "upside_pct": 0.9379172350338648,
+        "alpha_score": 35.57163120904182,
+        "volatility": 0.016367000982385624
+    },
+    {
+        "symbol": "DOLTI",
+        "current_price": 512.1,
+        "target_high": 517.4849021915805,
+        "upside_pct": 1.0515333316892377,
+        "alpha_score": 35.239200259018276,
+        "volatility": 0.019839875024409318
+    },
+    {
+        "symbol": "BFC",
+        "current_price": 501.0,
+        "target_high": 504.8412063145396,
+        "upside_pct": 0.7667078472134918,
+        "alpha_score": 35.07264619027871,
+        "volatility": 0.011860564585115467
+    },
+    {
+        "symbol": "MLBL",
+        "current_price": 395.4,
+        "target_high": 399.1946922387324,
+        "upside_pct": 0.9597097214801182,
+        "alpha_score": 35.02577292534974,
+        "volatility": 0.017400101163378836
+    },
+    {
+        "symbol": "NTC",
+        "current_price": 877.1,
+        "target_high": 886.6405950652326,
+        "upside_pct": 1.0877431382091702,
+        "alpha_score": 34.637832369482645,
+        "volatility": 0.02140332589540207
+    },
+    {
+        "symbol": "HLBSL",
+        "current_price": 947.6,
+        "target_high": 955.5913536667755,
+        "upside_pct": 0.8433256296723828,
+        "alpha_score": 34.56959137014559,
+        "volatility": 0.014395012965084726
+    },
+    {
+        "symbol": "NABIL",
+        "current_price": 533.0,
+        "target_high": 538.4262242999921,
+        "upside_pct": 1.0180533395857667,
+        "alpha_score": 34.52424113792487,
+        "volatility": 0.01948807290270706
+    },
+    {
+        "symbol": "ENL",
+        "current_price": 941.1,
+        "target_high": 950.2001878811013,
+        "upside_pct": 0.9669735289662511,
+        "alpha_score": 34.491499221769615,
+        "volatility": 0.01803512606827879
+    },
+    {
+        "symbol": "AHPC",
+        "current_price": 307.0,
+        "target_high": 309.4158842543541,
+        "upside_pct": 0.7869329818743123,
+        "alpha_score": 34.47042352319397,
+        "volatility": 0.012829222894369484
+    },
+    {
+        "symbol": "KPCL",
+        "current_price": 533.6,
+        "target_high": 539.6033835448558,
+        "upside_pct": 1.1250718787210798,
+        "alpha_score": 34.10958005064024,
+        "volatility": 0.022984043692439483
+    },
+    {
+        "symbol": "RHGCL",
+        "current_price": 317.0,
+        "target_high": 319.78912028388146,
+        "upside_pct": 0.8798486699941637,
+        "alpha_score": 33.90438827328386,
+        "volatility": 0.0159508787742226
+    },
+    {
+        "symbol": "EBLD86",
+        "current_price": 1088.0,
+        "target_high": 1096.7005726163848,
+        "upside_pct": 0.7996849831235983,
+        "alpha_score": 33.67746319483158,
+        "volatility": 0.01374540441176473
+    },
+    {
+        "symbol": "CREST",
+        "current_price": 1390.0,
+        "target_high": 1400.361040614162,
+        "upside_pct": 0.7453986053354068,
+        "alpha_score": 32.99619403522901,
+        "volatility": 0.01259044193216854
+    },
+    {
+        "symbol": "SRLI",
+        "current_price": 412.1,
+        "target_high": 414.4936901294002,
+        "upside_pct": 0.5808517664159555,
+        "alpha_score": 32.24321378144029,
+        "volatility": 0.008014698235518416
+    },
+    {
+        "symbol": "DHEL",
+        "current_price": 715.0,
+        "target_high": 720.4565988418402,
+        "upside_pct": 0.7631606771804428,
+        "alpha_score": 32.04916252129648,
+        "volatility": 0.013812187812187822
+    },
+    {
+        "symbol": "SHPC",
+        "current_price": 557.0,
+        "target_high": 562.0097676401317,
+        "upside_pct": 0.8994196840451792,
+        "alpha_score": 31.98647647277016,
+        "volatility": 0.018118748397024858
+    },
+    {
+        "symbol": "SPDL",
+        "current_price": 442.2,
+        "target_high": 445.8207092356244,
+        "upside_pct": 0.818794490190946,
+        "alpha_score": 31.961266408618684,
+        "volatility": 0.015618336886993614
+    },
+    {
+        "symbol": "SKHL",
+        "current_price": 326.3,
+        "target_high": 329.39382205002414,
+        "upside_pct": 0.9481526356188082,
+        "alpha_score": 31.958141767507634,
+        "volatility": 0.01966857843351864
+    },
+    {
+        "symbol": "MSLB",
+        "current_price": 1362.2,
+        "target_high": 1373.0903264007186,
+        "upside_pct": 0.7994660402817904,
+        "alpha_score": 31.37595890956265,
+        "volatility": 0.015480210583719626
+    },
+    {
+        "symbol": "PCBL",
+        "current_price": 257.9,
+        "target_high": 260.0578774268192,
+        "upside_pct": 0.8367109060950818,
+        "alpha_score": 30.721489561777013,
+        "volatility": 0.01723536254362154
+    },
+    {
+        "symbol": "RLFL",
+        "current_price": 488.0,
+        "target_high": 491.7615071298334,
+        "upside_pct": 0.7708006413592995,
+        "alpha_score": 30.404792042533096,
+        "volatility": 0.015351288056206098
+    },
+    {
+        "symbol": "NSIF2",
+        "current_price": 10.98,
+        "target_high": 11.061149241582354,
+        "upside_pct": 0.7390641309868436,
+        "alpha_score": 29.84054901641564,
+        "volatility": 0.014767109029404108
+    },
+    {
+        "symbol": "HRL",
+        "current_price": 858.7,
+        "target_high": 866.0610685121917,
+        "upside_pct": 0.857234017956415,
+        "alpha_score": 29.70499906916833,
+        "volatility": 0.01885824086243324
+    },
+    {
+        "symbol": "SKBBL",
+        "current_price": 798.4,
+        "target_high": 802.616913994766,
+        "upside_pct": 0.528170590526814,
+        "alpha_score": 29.33417931725028,
+        "volatility": 0.008005296306899494
+    },
+    {
+        "symbol": "SAGF",
+        "current_price": 9.96,
+        "target_high": 10.039608046190162,
+        "upside_pct": 0.7992775721903772,
+        "alpha_score": 29.295359233052793,
+        "volatility": 0.017283419391853166
+    },
+    {
+        "symbol": "SIGS3",
+        "current_price": 10.5,
+        "target_high": 10.579149642465852,
+        "upside_pct": 0.7538061187223982,
+        "alpha_score": 29.083858123935034,
+        "volatility": 0.015918367346938786
+    },
+    {
+        "symbol": "MKHC",
+        "current_price": 345.0,
+        "target_high": 347.2817978010127,
+        "upside_pct": 0.6613906669602089,
+        "alpha_score": 28.315165054226316,
+        "volatility": 0.013358178053830199
+    },
+    {
+        "symbol": "HHL",
+        "current_price": 372.1,
+        "target_high": 375.41251828949413,
+        "upside_pct": 0.8902225986278153,
+        "alpha_score": 28.19267332116513,
+        "volatility": 0.021576381157139043
+    },
+    {
+        "symbol": "GBBD85",
+        "current_price": 1073.7,
+        "target_high": 1081.5075036774126,
+        "upside_pct": 0.7271587666398948,
+        "alpha_score": 27.927542868911583,
+        "volatility": 0.016037334184861435
+    },
+    {
+        "symbol": "MHL",
+        "current_price": 546.1,
+        "target_high": 549.6238693736244,
+        "upside_pct": 0.645279138184295,
+        "alpha_score": 27.617458731675963,
+        "volatility": 0.013364899155047502
+    },
+    {
+        "symbol": "H8020",
+        "current_price": 11.92,
+        "target_high": 11.994673094339042,
+        "upside_pct": 0.6264521337167934,
+        "alpha_score": 27.59246518017799,
+        "volatility": 0.012703739213806355
+    },
+    {
+        "symbol": "GMFBS",
+        "current_price": 1445.0,
+        "target_high": 1454.7159563345429,
+        "upside_pct": 0.6723845214216462,
+        "alpha_score": 27.412464215473086,
+        "volatility": 0.01452842313395947
+    },
+    {
+        "symbol": "SHINED",
+        "current_price": 1125.2,
+        "target_high": 1132.279919361705,
+        "upside_pct": 0.6292143051639512,
+        "alpha_score": 27.407554048098405,
+        "volatility": 0.012957696409527188
+    },
+    {
+        "symbol": "CHDC",
+        "current_price": 2540.0,
+        "target_high": 2557.6682129905275,
+        "upside_pct": 0.6955989366349287,
+        "alpha_score": 27.087209736019258,
+        "volatility": 0.015679977502812147
+    },
+    {
+        "symbol": "NMFBS",
+        "current_price": 1185.1,
+        "target_high": 1194.381629512709,
+        "upside_pct": 0.78319378218791,
+        "alpha_score": 26.320516995937783,
+        "volatility": 0.01975601817809222
+    },
+    {
+        "symbol": "HLICF",
+        "current_price": 9.6,
+        "target_high": 9.672923342358022,
+        "upside_pct": 0.7596181495627395,
+        "alpha_score": 25.625672515369537,
+        "volatility": 0.019642857142857132
+    },
+    {
+        "symbol": "GBILD84/85",
+        "current_price": 1210.0,
+        "target_high": 1218.711270927774,
+        "upside_pct": 0.7199397460970283,
+        "alpha_score": 25.266800569494578,
+        "volatility": 0.01849350649350653
+    },
+    {
+        "symbol": "NABBC",
+        "current_price": 1348.0,
+        "target_high": 1357.805371437617,
+        "upside_pct": 0.7274014419597067,
+        "alpha_score": 25.207536106106666,
+        "volatility": 0.018856506994489222
+    },
+    {
+        "symbol": "SPIL",
+        "current_price": 741.1,
+        "target_high": 745.7483774653714,
+        "upside_pct": 0.6272267528500084,
+        "alpha_score": 24.800416348531197,
+        "volatility": 0.015290976733427131
+    },
+    {
+        "symbol": "NMB50",
+        "current_price": 10.49,
+        "target_high": 10.546188215094631,
+        "upside_pct": 0.5356359875560514,
+        "alpha_score": 24.51645612805639,
+        "volatility": 0.011848018521040437
+    },
+    {
+        "symbol": "TTL",
+        "current_price": 945.0,
+        "target_high": 950.8766708685148,
+        "upside_pct": 0.6218699331761693,
+        "alpha_score": 23.39771696362858,
+        "volatility": 0.01657823129251702
+    },
+    {
+        "symbol": "MSHL",
+        "current_price": 795.0,
+        "target_high": 799.2181220201261,
+        "upside_pct": 0.53058138617939,
+        "alpha_score": 23.330320907777345,
+        "volatility": 0.01274213836477991
+    },
+    {
+        "symbol": "NBL",
+        "current_price": 273.4,
+        "target_high": 275.05741336350434,
+        "upside_pct": 0.6062228835056269,
+        "alpha_score": 23.156085552822546,
+        "volatility": 0.016179851604138384
+    },
+    {
+        "symbol": "LBBL",
+        "current_price": 505.0,
+        "target_high": 507.93894332616514,
+        "upside_pct": 0.5819689754782366,
+        "alpha_score": 23.067335631726927,
+        "volatility": 0.015229137199434232
+    },
+    {
+        "symbol": "GLH",
+        "current_price": 300.0,
+        "target_high": 301.68894493701123,
+        "upside_pct": 0.56298164567042,
+        "alpha_score": 23.066265845437194,
+        "volatility": 0.014407142857142828
+    },
+    {
+        "symbol": "SGIC",
+        "current_price": 519.0,
+        "target_high": 521.5651668459907,
+        "upside_pct": 0.49425180076892394,
+        "alpha_score": 23.017777107979754,
+        "volatility": 0.011472612166253787
+    },
+    {
+        "symbol": "DDBL",
+        "current_price": 870.1,
+        "target_high": 874.6659388987553,
+        "upside_pct": 0.5247602458056732,
+        "alpha_score": 22.969645260973035,
+        "volatility": 0.012845814110036605
+    },
+    {
+        "symbol": "JBLB",
+        "current_price": 1375.0,
+        "target_high": 1382.757412632786,
+        "upside_pct": 0.564175464202624,
+        "alpha_score": 22.925247896271106,
+        "volatility": 0.01460935064935065
+    },
+    {
+        "symbol": "LBBLD89",
+        "current_price": 1315.7,
+        "target_high": 1322.7625232379194,
+        "upside_pct": 0.5367882676840705,
+        "alpha_score": 21.999769786015072,
+        "volatility": 0.014399722038241457
+    },
+    {
+        "symbol": "SMHL",
+        "current_price": 545.2,
+        "target_high": 548.3671555357836,
+        "upside_pct": 0.5809162758223739,
+        "alpha_score": 21.541298254438058,
+        "volatility": 0.016967561052300566
+    },
+    {
+        "symbol": "BPCL",
+        "current_price": 740.0,
+        "target_high": 744.3305658125374,
+        "upside_pct": 0.5852115962888393,
+        "alpha_score": 21.23049388084313,
+        "volatility": 0.01756467181467183
+    },
+    {
+        "symbol": "RAWA",
+        "current_price": 715.0,
+        "target_high": 718.026547679505,
+        "upside_pct": 0.42329338174895137,
+        "alpha_score": 19.616512737532403,
+        "volatility": 0.011578421578421599
+    },
+    {
+        "symbol": "BJHL",
+        "current_price": 391.4,
+        "target_high": 393.40324637781885,
+        "upside_pct": 0.5118156305107026,
+        "alpha_score": 19.59493683150823,
+        "volatility": 0.016119789765676313
+    },
+    {
+        "symbol": "LICN",
+        "current_price": 870.0,
+        "target_high": 874.3472776945215,
+        "upside_pct": 0.4996870913243021,
+        "alpha_score": 19.10711321486201,
+        "volatility": 0.016151888341543526
+    },
+    {
+        "symbol": "GCIL",
+        "current_price": 457.8,
+        "target_high": 459.8537435108939,
+        "upside_pct": 0.4486115139567207,
+        "alpha_score": 18.771321881619446,
+        "volatility": 0.013898770517381271
+    },
+    {
+        "symbol": "BANDIPUR",
+        "current_price": 969.0,
+        "target_high": 972.958668850662,
+        "upside_pct": 0.4085313571374498,
+        "alpha_score": 18.665419611096052,
+        "volatility": 0.011887070617720789
+    },
+    {
+        "symbol": "CHCL",
+        "current_price": 504.1,
+        "target_high": 506.2711844628235,
+        "upside_pct": 0.4307051106572954,
+        "alpha_score": 18.628324659276576,
+        "volatility": 0.013120979397511834
+    },
+    {
+        "symbol": "USLB",
+        "current_price": 1496.0,
+        "target_high": 1503.7462309104958,
+        "upside_pct": 0.5177961838566788,
+        "alpha_score": 17.674217758917642,
+        "volatility": 0.01929669595110773
+    },
+    {
+        "symbol": "SLCF",
+        "current_price": 9.93,
+        "target_high": 9.961941063122485,
+        "upside_pct": 0.32166226709452217,
+        "alpha_score": 14.95468141645391,
+        "volatility": 0.011509135376204859
+    },
+    {
+        "symbol": "NIBLGF",
+        "current_price": 9.73,
+        "target_high": 9.774721470850901,
+        "upside_pct": 0.4596245719517096,
+        "alpha_score": 14.094380980429056,
+        "volatility": 0.022610483042137676
+    },
+    {
+        "symbol": "RBBD2088",
+        "current_price": 1078.0,
+        "target_high": 1080.539603030266,
+        "upside_pct": 0.23558469668516174,
+        "alpha_score": 14.094363919656143,
+        "volatility": 0.006714815796448459
+    },
+    {
+        "symbol": "NRIC",
+        "current_price": 1261.0,
+        "target_high": 1265.1709706622596,
+        "upside_pct": 0.3307669042235895,
+        "alpha_score": 14.0768500245004,
+        "volatility": 0.013497224425059448
+    },
+    {
+        "symbol": "BBC",
+        "current_price": 5202.0,
+        "target_high": 5218.987055180836,
+        "upside_pct": 0.32654854249973164,
+        "alpha_score": 13.782840184512308,
+        "volatility": 0.013692398528038673
+    },
+    {
+        "symbol": "BUNGAL",
+        "current_price": 666.1,
+        "target_high": 667.9624889735211,
+        "upside_pct": 0.2796110153912537,
+        "alpha_score": 11.957427924506545,
+        "volatility": 0.01338387629485064
+    },
+    {
+        "symbol": "NICSF",
+        "current_price": 9.34,
+        "target_high": 9.365617910283012,
+        "upside_pct": 0.2742816946789273,
+        "alpha_score": 11.691574649959733,
+        "volatility": 0.01345977363107988
+    },
+    {
+        "symbol": "SBL",
+        "current_price": 408.2,
+        "target_high": 409.4146660630358,
+        "upside_pct": 0.2975664044673645,
+        "alpha_score": 11.312147359441305,
+        "volatility": 0.016305032547070795
+    },
+    {
+        "symbol": "NBF2",
+        "current_price": 10.0,
+        "target_high": 10.027026152024824,
+        "upside_pct": 0.27026152024824546,
+        "alpha_score": 11.095780889957286,
+        "volatility": 0.014357142857142869
+    },
+    {
+        "symbol": "SANIMA",
+        "current_price": 360.2,
+        "target_high": 361.1266964087391,
+        "upside_pct": 0.2572727397943201,
+        "alpha_score": 10.9670068152868,
+        "volatility": 0.013458792734195278
+    },
+    {
+        "symbol": "CMF2",
+        "current_price": 10.3,
+        "target_high": 10.314693950302885,
+        "upside_pct": 0.14265971167848818,
+        "alpha_score": 6.653146967670761,
+        "volatility": 0.011442441054091541
+    },
+    {
+        "symbol": "HDHPC",
+        "current_price": 242.1,
+        "target_high": 242.40708059505985,
+        "upside_pct": 0.12684039448981496,
+        "alpha_score": 4.440606039248236,
+        "volatility": 0.018563757597214858
+    },
+    {
+        "symbol": "SEF",
+        "current_price": 10.01,
+        "target_high": 10.0178897509837,
+        "upside_pct": 0.07881869114584339,
+        "alpha_score": 2.6607051542078533,
+        "volatility": 0.01962323390894822
+    },
+    {
+        "symbol": "RMF1",
+        "current_price": 9.87,
+        "target_high": 9.868830952758412,
+        "upside_pct": -0.011844450269387607,
+        "alpha_score": -0.38403166226101143,
+        "volatility": 0.020842379504993507
+    },
+    {
+        "symbol": "CITY",
+        "current_price": 496.0,
+        "target_high": 495.4417045037546,
+        "upside_pct": -0.11255957585593002,
+        "alpha_score": -3.936014174355814,
+        "volatility": 0.018597350230414762
+    },
+    {
+        "symbol": "UMHL",
+        "current_price": 626.0,
+        "target_high": 624.3744552501697,
+        "upside_pct": -0.259671685276397,
+        "alpha_score": -9.46893005642983,
+        "volatility": 0.017423550890004542
+    }
+]
